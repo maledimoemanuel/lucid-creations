@@ -1,0 +1,43 @@
+.main{
+    display: flex;
+    padding: 3rem 2rem;
+}
+
+.left{
+    text-align: left;
+}
+
+.big-txt{
+    font-size: 1.5rem
+}
+
+.banner{
+    height: 100%;
+    width: 100%;
+}
+
+.different{
+    color: rgb(156, 104, 192);
+    font-weight: bold;
+}
+
+.big-txt-2{
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-top: -1.5rem;
+}
+
+.get-started{
+    height: 2rem;
+    width: 8rem;
+    background-color: indigo;
+    border-width: 0;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.get-started:hover{
+    cursor: pointer;
+    background-color: rgb(156, 104, 192);
+}

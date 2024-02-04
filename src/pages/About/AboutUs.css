@@ -1,0 +1,32 @@
+.cover{
+    background-color: #ececec;
+    display: flex;
+    padding: 2rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.first{
+    font-size: 1.5rem;
+}
+
+.second{
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-top: -2rem;
+}
+
+.paragraph{
+    text-align: left;
+    display: block;
+    width: 50%;
+    margin-right: 2rem;
+}
+
+.video{
+    border-radius: 5px;
+}
+
+.p-diff{
+    color: indigo;
+}
